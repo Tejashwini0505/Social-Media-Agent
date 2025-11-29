@@ -1,3 +1,13 @@
+# Secrets and credentials
+.env
 service_account.json
-.env
-.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Others
+saved_posts.json
