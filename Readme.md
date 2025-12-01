@@ -1,4 +1,4 @@
-🧠 AI Content Generation Agent — README
+🧠Social Media Agent — README
 📌 Overview
 
 This project is an AI-powered content generation agent built using Streamlit and advanced Large Language Models (LLMs).
